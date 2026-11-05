@@ -1,0 +1,11 @@
+Figma
+-------------------------------------
+httpswww.figma.comprotonrvjSvA3SBWKsuqWp4KNXLSERF-FinanCorp---Wireframes-y-prototiponode-id=2-8&t=i5ExttY2kSIRZ2iq-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+
+UML
+-------------------------------------
+https://lucid.app/lucidchart/4d2374f9-41a7-4f30-bf2a-025e0c7cc16f/edit?viewport_loc=-738%2C-119%2C3884%2C1663%2Cp1&invitationId=inv_03eaf8b7-d8cc-4362-b130-c88119a8c24e
+
+GitHub
+-------------------------------------
+https://github.com/brianfloressite/Parcial-definitivo-de-Patrones-de-dise-o.git
